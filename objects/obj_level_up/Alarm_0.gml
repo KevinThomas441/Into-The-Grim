@@ -1,0 +1,1 @@
+start_soul_animation = true;
