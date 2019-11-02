@@ -5,7 +5,7 @@ Designer: Jordan Valentine<br>
 Artist: Corinna Ramsey<br>
 Programmer: Kevin Thomas<br>
 
-Controls: 
+### Controls: 
  - Move: Left/Right
  - Jump: Z
  - Attack: X
@@ -21,7 +21,7 @@ Free them to improve your stats and be ready to fight again!
 
 
 
-Cheats:
+### Cheats:
 To use, hold shift and press the associated button
 - H: Increase max hp and current hp by 1
 - A: Increase attack by 1
